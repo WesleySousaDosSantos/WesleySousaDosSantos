@@ -1,4 +1,4 @@
-### Olá, sou Wesley Sousa, um desenvolvedor front-end apaixonado por criar experiências digitais incríveis e funcionais. 👋
+### Olá, sou Wesley Sousa, um desenvolvedor desenvolvedor full stack apaixonado por criar experiências digitais incríveis e funcionais. 👋
 
 
 ###
